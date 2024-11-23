@@ -10,13 +10,12 @@ Key features include:
 - Multi-page layout for organized content presentation.  
 - Easy-to-customize colors and styles using CSS and React-Bootstrap.
 
-![Portfolio website](src/assets/screenshots/ss-one.png)
+![Portfolio website](./src/assets/screenshots/ss-one.png)
 
-![](src/assets/screenshots/ss-two.png)
+![Screenshot Two](./src/assets/screenshots/ss-two.png)
 
-![](src/assets/screenshots/ss-three.png)
+![Screenshot Three](./src/assets/screenshots/ss-three.png)
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)
 </div>
