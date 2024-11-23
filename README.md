@@ -10,9 +10,13 @@ Key features include:
 - Multi-page layout for organized content presentation.  
 - Easy-to-customize colors and styles using CSS and React-Bootstrap.
 
-![Protfolio Website](https://i.ibb.co/N7xKjdQ/Screenshot-17.png)
+![Portfolio website](src/assets/screenshots/ss-one.png)
+
+![](src/assets/screenshots/ss-two.png)
+
+![](src/assets/screenshots/ss-three.png)
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![GitHub repo size](https://img.shields.io/github/repo-size/19sajib/portfolio?color=yellow)
 </div>
